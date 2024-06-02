@@ -1,5 +1,5 @@
-# LEAP - 이미징 처리 과정 
+# econometrics with python 2024 
 
 ---
-필터 증강 
- sharpen filtter, blur filter 
+
+2024년도 학기 계량경제학 파이썬 사고 능력 함양
